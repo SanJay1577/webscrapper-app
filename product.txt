@@ -1,0 +1,4 @@
+imgxpath = //*[@id="imgBlkFront"]
+titlexpath = //*[@id="productTitle"] 
+priceXpath = //*[@id="soldByThirdParty"]/span
+url changeer = https://www.amazon.in/Summary-Peter-Thiel-Blake-Masters-ebook/dp/B09PJMNSXZ/ref=sr_1_2?crid=3IRL3Y398XYSA&keywords=peter+thiel+zero+to+one&qid=1642487073&s=books&sprefix=peter+th%2Cstripbooks%2C313&sr=1-2
